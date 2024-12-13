@@ -1,4 +1,3 @@
-````markdown
 # cccurl
 
 **cccurl** is a lightweight command-line tool built in Go, designed to mimic the basic functionalities of the widely-used `curl` utility. It allows users to send HTTP requests with customizable methods, headers, and payloads directly from the terminal.
@@ -25,7 +24,6 @@
    git clone https://github.com/islamghany/cccurl.git
    cd cccurl
    ```
-````
 
 2. **Build the Executable:**
 
